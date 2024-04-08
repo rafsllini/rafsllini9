@@ -1,0 +1,33 @@
+header{
+    background-color: rgb(4, 75, 34);
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    
+}
+
+body{
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(to right, rgb(57, 130, 163), lightblue );
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+footer{
+    text-align: center;
+
+}
+.imagem{
+    text-align: center;
+
+}
+
+.botao{
+    border-radius: 15px;
+
+}
+
+.titulo{
+    text-align: center;
+    font-family: sans-serif;
+}
